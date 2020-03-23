@@ -1,5 +1,4 @@
 
-#' source: http://www.antarcticglaciers.org/glaciers-and-climate/estimating-glacier-contribution-to-sea-level-rise/
 #' calculate sea level rise based on how much ice melted from sea ice
 #' @param volume km^3
 #' @param  % of sea ice above water
